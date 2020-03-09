@@ -1,0 +1,56 @@
+  
+  
+  #title {
+  font-size: 50px;
+  text-align: center;
+  font-family: Helvetica;
+}
+
+h3 {
+  font-size: 20px;
+  text-align: center;
+  font-family: Helvetica;
+}
+
+#img-div {
+text-align: center; 
+}
+
+#image {
+  
+  height: auto; 
+  display: block;
+  width: 100%;
+  max-width: 100%;
+}
+
+#tribute-info {
+padding-top: 30px; 
+list-style: inside;
+padding-right: 200px;
+padding-left: 300px;
+align: left; 
+  
+  }
+
+li {
+ line-height: 150%; 
+}
+
+#quote {
+  text-align: center;
+  padding-right: 400px;
+  padding-left: 400px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-style: italic;
+}
+
+p{
+ text-align: center; 
+}
+
+body {
+  background-color: #ffe6d0;
+}
+
